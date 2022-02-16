@@ -1,0 +1,20 @@
+#
+# Lines that begin with a hash will be ignored. 
+# 
+# Please follow these instructions closely. 
+# You need to supply two lines only in this file. 
+# On the first line, you must give us your student number. 
+#
+# On the second, please include the *precise* URL for the server on your QUT Linux VM 
+# Do *not* give us an entry for HTTP and HTTPS -- just one please 
+# Specify the port if it isn't the default: 80 for HTTP or 443 for HTTPS 
+#
+# ****DO NOT USE ANY version of http://localhost or https://localhost****
+# You must use an explicit ip address. 
+#
+# Please edit the dummy entries below and save the file.  
+# Final check -- **don't** leave the student number as n1234567 
+#             -- make sure your URL is the correct one and not full of xxxs and yyys
+#
+n10221221
+https://172.22.27.3
